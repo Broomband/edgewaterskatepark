@@ -9,7 +9,8 @@ body {
 }
 .up {
   position: fixed;
-  top: 95%;
+  top: 95%;  
+  right: 10%;
   z-index: 1;
 }
 .up button {
