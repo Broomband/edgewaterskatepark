@@ -19,18 +19,8 @@ body {
   border: 0;
   background-color: rgb(12, 12, 12);
 }
-.above {
-  margin-bottom: 70px;
-}
 .navbar {
   padding: 0.8rem;
-  margin-top: -70px;
-}
-.navbar.affix {
-  margin-top: 0 !important;
-  left: 0;
-  right: 0;
-  top: 0;
 }
 .navbar-nav li {
   padding-right: 1.2rem;
